@@ -3,8 +3,18 @@ This document includes a list of inputs from the environment and the audio effec
 
 | Input | Mapping |
 |:-------|:---------------|
-| Proximity to tag |     |
-| Direction (maybe in rads?) |  |
-| Terrain type | |
-| Player's movement speed | |
+| Proximity to tag | chord complexity |
+| Direction (maybe in rads?) | panning |
+| Getting closer/further | mood (major/minor) |
+| Target's terrain type | texture/timbre |
+| Player's movement speed | tempo |
+| ??? | crescendo/decresendo |
+| Indoors? | Reverb |
+| ??? | Syncopation/delay |
+| Underwater | muffled/muted/high-pass |
+| Weather condition/astronomical? | ??? |
+| Time of day | ??? |
+
+This could sound like sonar from very far, and complex chords/melody when close?
+May want to add photo hint within ~50m?
 
